@@ -1,3 +1,3 @@
 # pointnet
 
-This is a work to modeify the original project.
+This is a work to modify the original project.
